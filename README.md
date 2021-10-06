@@ -1,5 +1,5 @@
-# simplex-algorithm
-Input format:
+# Simplex Algorithm
+Input format:  
 n = number of inequalities, m = number of variables  
 next i = [1..n] lines are the coefficients  
 second to last line is solutions to inequalities  
